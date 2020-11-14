@@ -1,359 +1,308 @@
-[
-  {
-    "Symbol": "nifty",
-    "Open": 12823.35,
-    "Last Traded Price": 12770.6,
-    "Change": 50.65,
-    "%Change": 0.4
-  },
-  {
-    "Symbol": "bpcl",
-    "Open": 397.55,
-    "Last Traded Price": 414.45,
-    "Change": 20.45,
-    "%Change": 5.19
-  },
-  {
-    "Symbol": "ioc",
-    "Open": 85.25,
-    "Last Traded Price": 87,
-    "Change": 2.25,
-    "%Change": 2.65
-  },
-  {
-    "Symbol": "tatamotors",
-    "Open": 148.7,
-    "Last Traded Price": 148.45,
-    "Change": 2.1,
-    "%Change": 1.43
-  },
-  {
-    "Symbol": "hdfclife",
-    "Open": 638,
-    "Last Traded Price": 635.55,
-    "Change": 8.05,
-    "%Change": 1.28
-  },
-  {
-    "Symbol": "sunpharma",
-    "Open": 511,
-    "Last Traded Price": 514,
-    "Change": 5.55,
-    "%Change": 1.09
-  },
-  {
-    "Symbol": "coalindia",
-    "Open": 127.35,
-    "Last Traded Price": 127.1,
-    "Change": 1.2,
-    "%Change": 0.95
-  },
-  {
-    "Symbol": "gail",
-    "Open": 94,
-    "Last Traded Price": 93.65,
-    "Change": 0.85,
-    "%Change": 0.92
-  },
-  {
-    "Symbol": "tatasteel",
-    "Open": 496.55,
-    "Last Traded Price": 490.95,
-    "Change": 4.4,
-    "%Change": 0.9
-  },
-  {
-    "Symbol": "hdfcbank",
-    "Open": 1367.8,
-    "Last Traded Price": 1371,
-    "Change": 12.2,
-    "%Change": 0.9
-  },
-  {
-    "Symbol": "infy",
-    "Open": 1137,
-    "Last Traded Price": 1134,
-    "Change": 9.8,
-    "%Change": 0.87
-  },
-  {
-    "Symbol": "bhartiartl",
-    "Open": 487,
-    "Last Traded Price": 479.9,
-    "Change": 4.15,
-    "%Change": 0.87
-  },
-  {
-    "Symbol": "upl",
-    "Open": 431.15,
-    "Last Traded Price": 429,
-    "Change": 3.65,
-    "%Change": 0.86
-  },
-  {
-    "Symbol": "sbilife",
-    "Open": 844.7,
-    "Last Traded Price": 839,
-    "Change": 7.15,
-    "%Change": 0.86
-  },
-  {
-    "Symbol": "lt",
-    "Open": 1060.05,
-    "Last Traded Price": 1058.85,
-    "Change": 7.35,
-    "%Change": 0.7
-  },
-  {
-    "Symbol": "maruti",
-    "Open": 6850,
-    "Last Traded Price": 6852,
-    "Change": 42.75,
-    "%Change": 0.63
-  },
-  {
-    "Symbol": "tcs",
-    "Open": 2677.95,
-    "Last Traded Price": 2673.25,
-    "Change": 16.4,
-    "%Change": 0.62
-  },
-  {
-    "Symbol": "ongc",
-    "Open": 74,
-    "Last Traded Price": 72.6,
-    "Change": 0.45,
-    "%Change": 0.62
-  },
-  {
-    "Symbol": "itc",
-    "Open": 189.05,
-    "Last Traded Price": 188.2,
-    "Change": 1.1,
-    "%Change": 0.59
-  },
-  {
-    "Symbol": "wipro",
-    "Open": 347.15,
-    "Last Traded Price": 345.9,
-    "Change": 1.75,
-    "%Change": 0.51
-  },
-  {
-    "Symbol": "ntpc",
-    "Open": 90.55,
-    "Last Traded Price": 91.9,
-    "Change": 0.45,
-    "%Change": 0.49
-  },
-  {
-    "Symbol": "kotakbank",
-    "Open": 1773.95,
-    "Last Traded Price": 1770.9,
-    "Change": 7.6,
-    "%Change": 0.43
-  },
-  {
-    "Symbol": "asianpaint",
-    "Open": 2192,
-    "Last Traded Price": 2189,
-    "Change": 9.05,
-    "%Change": 0.42
-  },
-  {
-    "Symbol": "drreddy",
-    "Open": 4881.2,
-    "Last Traded Price": 4875.6,
-    "Change": 18.7,
-    "%Change": 0.39
-  },
-  {
-    "Symbol": "britannia",
-    "Open": 3535,
-    "Last Traded Price": 3527,
-    "Change": 12.55,
-    "%Change": 0.36
-  },
-  {
-    "Symbol": "divislab",
-    "Open": 3464.2,
-    "Last Traded Price": 3444,
-    "Change": 11.05,
-    "%Change": 0.32
-  },
-  {
-    "Symbol": "techm",
-    "Open": 844,
-    "Last Traded Price": 841.4,
-    "Change": 2.55,
-    "%Change": 0.3
-  },
-  {
-    "Symbol": "bajajfinsv",
-    "Open": 7350,
-    "Last Traded Price": 7282,
-    "Change": 20.9,
-    "%Change": 0.29
-  },
-  {
-    "Symbol": "hcltech",
-    "Open": 834,
-    "Last Traded Price": 830.5,
-    "Change": 2.4,
-    "%Change": 0.29
-  },
-  {
-    "Symbol": "m&m",
-    "Open": 634.5,
-    "Last Traded Price": 631.6,
-    "Change": 1.75,
-    "%Change": 0.28
-  },
-  {
-    "Symbol": "reliance",
-    "Open": 2014.9,
-    "Last Traded Price": 2001.55,
-    "Change": 5.15,
-    "%Change": 0.26
-  },
-  {
-    "Symbol": "hdfc",
-    "Open": 2320,
-    "Last Traded Price": 2312.6,
-    "Change": 5.85,
-    "%Change": 0.25
-  },
-  {
-    "Symbol": "cipla",
-    "Open": 749.5,
-    "Last Traded Price": 745.8,
-    "Change": 1.15,
-    "%Change": 0.15
-  },
-  {
-    "Symbol": "hindunilvr",
-    "Open": 2197,
-    "Last Traded Price": 2188,
-    "Change": 2.65,
-    "%Change": 0.12
-  },
-  {
-    "Symbol": "nestleind",
-    "Open": 16899,
-    "Last Traded Price": 16835,
-    "Change": 9.35,
-    "%Change": 0.06
-  },
-  {
-    "Symbol": "icicibank",
-    "Open": 489.85,
-    "Last Traded Price": 485.65,
-    "Change": 0.1,
-    "%Change": 0.02
-  },
-  {
-    "Symbol": "grasim",
-    "Open": 843,
-    "Last Traded Price": 841,
-    "Change": -0.35,
-    "%Change": -0.04
-  },
-  {
-    "Symbol": "eichermot",
-    "Open": 2540,
-    "Last Traded Price": 2513.65,
-    "Change": -0.95,
-    "%Change": -0.04
-  },
-  {
-    "Symbol": "ultracemco",
-    "Open": 4925,
-    "Last Traded Price": 4890.25,
-    "Change": -9.5,
-    "%Change": -0.19
-  },
-  {
-    "Symbol": "bajaj-auto",
-    "Open": 3055.65,
-    "Last Traded Price": 3032.8,
-    "Change": -7.95,
-    "%Change": -0.26
-  },
-  {
-    "Symbol": "adaniports",
-    "Open": 369,
-    "Last Traded Price": 364.5,
-    "Change": -1,
-    "%Change": -0.27
-  },
-  {
-    "Symbol": "indusindbk",
-    "Open": 776.6,
-    "Last Traded Price": 766.05,
-    "Change": -2.5,
-    "%Change": -0.33
-  },
-  {
-    "Symbol": "powergrid",
-    "Open": 189,
-    "Last Traded Price": 188.15,
-    "Change": -0.7,
-    "%Change": -0.37
-  },
-  {
-    "Symbol": "axisbank",
-    "Open": 613.95,
-    "Last Traded Price": 607.9,
-    "Change": -2.45,
-    "%Change": -0.4
-  },
-  {
-    "Symbol": "titan",
-    "Open": 1295,
-    "Last Traded Price": 1282.55,
-    "Change": -5.9,
-    "%Change": -0.46
-  },
-  {
-    "Symbol": "shreecem",
-    "Open": 23500,
-    "Last Traded Price": 23303.7,
-    "Change": -131.8,
-    "%Change": -0.56
-  },
-  {
-    "Symbol": "bajfinance",
-    "Open": 4400,
-    "Last Traded Price": 4351,
-    "Change": -25.05,
-    "%Change": -0.57
-  },
-  {
-    "Symbol": "sbin",
-    "Open": 232,
-    "Last Traded Price": 228.05,
-    "Change": -1.4,
-    "%Change": -0.61
-  },
-  {
-    "Symbol": "jswsteel",
-    "Open": 344.1,
-    "Last Traded Price": 341,
-    "Change": -2.2,
-    "%Change": -0.64
-  },
-  {
-    "Symbol": "heromotoco",
-    "Open": 3156.95,
-    "Last Traded Price": 3105,
-    "Change": -23.9,
-    "%Change": -0.76
-  },
-  {
-    "Symbol": "hindalco",
-    "Open": 212,
-    "Last Traded Price": 208,
-    "Change": -2.55,
-    "%Change": -1.21
-  }
-]
+{
+   "nifty": {
+      "Open": 12823.35,
+      "Last Traded Price": 12770.6,
+      "Change": 50.65,
+      "%Change": 0.4
+   },
+   "bpcl": {
+      "Open": 397.55,
+      "Last Traded Price": 414.45,
+      "Change": 20.45,
+      "%Change": 5.19
+   },
+   "ioc": {
+      "Open": 85.25,
+      "Last Traded Price": 87,
+      "Change": 2.25,
+      "%Change": 2.65
+   },
+   "tatamotors": {
+      "Open": 148.7,
+      "Last Traded Price": 148.45,
+      "Change": 2.1,
+      "%Change": 1.43
+   },
+   "hdfclife": {
+      "Open": 638,
+      "Last Traded Price": 635.55,
+      "Change": 8.05,
+      "%Change": 1.28
+   },
+   "sunpharma": {
+      "Open": 511,
+      "Last Traded Price": 514,
+      "Change": 5.55,
+      "%Change": 1.09
+   },
+   "coalindia": {
+      "Open": 127.35,
+      "Last Traded Price": 127.1,
+      "Change": 1.2,
+      "%Change": 0.95
+   },
+   "gail": {
+      "Open": 94,
+      "Last Traded Price": 93.65,
+      "Change": 0.85,
+      "%Change": 0.92
+   },
+   "tatasteel": {
+      "Open": 496.55,
+      "Last Traded Price": 490.95,
+      "Change": 4.4,
+      "%Change": 0.9
+   },
+   "hdfcbank": {
+      "Open": 1367.8,
+      "Last Traded Price": 1371,
+      "Change": 12.2,
+      "%Change": 0.9
+   },
+   "infy": {
+      "Open": 1137,
+      "Last Traded Price": 1134,
+      "Change": 9.8,
+      "%Change": 0.87
+   },
+   "bhartiartl": {
+      "Open": 487,
+      "Last Traded Price": 479.9,
+      "Change": 4.15,
+      "%Change": 0.87
+   },
+   "upl": {
+      "Open": 431.15,
+      "Last Traded Price": 429,
+      "Change": 3.65,
+      "%Change": 0.86
+   },
+   "sbilife": {
+      "Open": 844.7,
+      "Last Traded Price": 839,
+      "Change": 7.15,
+      "%Change": 0.86
+   },
+   "lt": {
+      "Open": 1060.05,
+      "Last Traded Price": 1058.85,
+      "Change": 7.35,
+      "%Change": 0.7
+   },
+   "maruti": {
+      "Open": 6850,
+      "Last Traded Price": 6852,
+      "Change": 42.75,
+      "%Change": 0.63
+   },
+   "tcs": {
+      "Open": 2677.95,
+      "Last Traded Price": 2673.25,
+      "Change": 16.4,
+      "%Change": 0.62
+   },
+   "ongc": {
+      "Open": 74,
+      "Last Traded Price": 72.6,
+      "Change": 0.45,
+      "%Change": 0.62
+   },
+   "itc": {
+      "Open": 189.05,
+      "Last Traded Price": 188.2,
+      "Change": 1.1,
+      "%Change": 0.59
+   },
+   "wipro": {
+      "Open": 347.15,
+      "Last Traded Price": 345.9,
+      "Change": 1.75,
+      "%Change": 0.51
+   },
+   "ntpc": {
+      "Open": 90.55,
+      "Last Traded Price": 91.9,
+      "Change": 0.45,
+      "%Change": 0.49
+   },
+   "kotakbank": {
+      "Open": 1773.95,
+      "Last Traded Price": 1770.9,
+      "Change": 7.6,
+      "%Change": 0.43
+   },
+   "asianpaint": {
+      "Open": 2192,
+      "Last Traded Price": 2189,
+      "Change": 9.05,
+      "%Change": 0.42
+   },
+   "drreddy": {
+      "Open": 4881.2,
+      "Last Traded Price": 4875.6,
+      "Change": 18.7,
+      "%Change": 0.39
+   },
+   "britannia": {
+      "Open": 3535,
+      "Last Traded Price": 3527,
+      "Change": 12.55,
+      "%Change": 0.36
+   },
+   "divislab": {
+      "Open": 3464.2,
+      "Last Traded Price": 3444,
+      "Change": 11.05,
+      "%Change": 0.32
+   },
+   "techm": {
+      "Open": 844,
+      "Last Traded Price": 841.4,
+      "Change": 2.55,
+      "%Change": 0.3
+   },
+   "bajajfinsv": {
+      "Open": 7350,
+      "Last Traded Price": 7282,
+      "Change": 20.9,
+      "%Change": 0.29
+   },
+   "hcltech": {
+      "Open": 834,
+      "Last Traded Price": 830.5,
+      "Change": 2.4,
+      "%Change": 0.29
+   },
+   "m&m": {
+      "Open": 634.5,
+      "Last Traded Price": 631.6,
+      "Change": 1.75,
+      "%Change": 0.28
+   },
+   "reliance": {
+      "Open": 2014.9,
+      "Last Traded Price": 2001.55,
+      "Change": 5.15,
+      "%Change": 0.26
+   },
+   "hdfc": {
+      "Open": 2320,
+      "Last Traded Price": 2312.6,
+      "Change": 5.85,
+      "%Change": 0.25
+   },
+   "cipla": {
+      "Open": 749.5,
+      "Last Traded Price": 745.8,
+      "Change": 1.15,
+      "%Change": 0.15
+   },
+   "hindunilvr": {
+      "Open": 2197,
+      "Last Traded Price": 2188,
+      "Change": 2.65,
+      "%Change": 0.12
+   },
+   "nestleind": {
+      "Open": 16899,
+      "Last Traded Price": 16835,
+      "Change": 9.35,
+      "%Change": 0.06
+   },
+   "icicibank": {
+      "Open": 489.85,
+      "Last Traded Price": 485.65,
+      "Change": 0.1,
+      "%Change": 0.02
+   },
+   "grasim": {
+      "Open": 843,
+      "Last Traded Price": 841,
+      "Change": -0.35,
+      "%Change": -0.04
+   },
+   "eichermot": {
+      "Open": 2540,
+      "Last Traded Price": 2513.65,
+      "Change": -0.95,
+      "%Change": -0.04
+   },
+   "ultracemco": {
+      "Open": 4925,
+      "Last Traded Price": 4890.25,
+      "Change": -9.5,
+      "%Change": -0.19
+   },
+   "bajaj-auto": {
+      "Open": 3055.65,
+      "Last Traded Price": 3032.8,
+      "Change": -7.95,
+      "%Change": -0.26
+   },
+   "adaniports": {
+      "Open": 369,
+      "Last Traded Price": 364.5,
+      "Change": -1,
+      "%Change": -0.27
+   },
+   "indusindbk": {
+      "Open": 776.6,
+      "Last Traded Price": 766.05,
+      "Change": -2.5,
+      "%Change": -0.33
+   },
+   "powergrid": {
+      "Open": 189,
+      "Last Traded Price": 188.15,
+      "Change": -0.7,
+      "%Change": -0.37
+   },
+   "axisbank": {
+      "Open": 613.95,
+      "Last Traded Price": 607.9,
+      "Change": -2.45,
+      "%Change": -0.4
+   },
+   "titan": {
+      "Open": 1295,
+      "Last Traded Price": 1282.55,
+      "Change": -5.9,
+      "%Change": -0.46
+   },
+   "shreecem": {
+      "Open": 23500,
+      "Last Traded Price": 23303.7,
+      "Change": -131.8,
+      "%Change": -0.56
+   },
+   "bajfinance": {
+      "Open": 4400,
+      "Last Traded Price": 4351,
+      "Change": -25.05,
+      "%Change": -0.57
+   },
+   "sbin": {
+      "Open": 232,
+      "Last Traded Price": 228.05,
+      "Change": -1.4,
+      "%Change": -0.61
+   },
+   "jswsteel": {
+      "Open": 344.1,
+      "Last Traded Price": 341,
+      "Change": -2.2,
+      "%Change": -0.64
+   },
+   "heromotoco": {
+      "Open": 3156.95,
+      "Last Traded Price": 3105,
+      "Change": -23.9,
+      "%Change": -0.76
+   },
+   "hindalco": {
+      "Open": 212,
+      "Last Traded Price": 208,
+      "Change": -2.55,
+      "%Change": -1.21
+   }
+}
