@@ -6,9 +6,7 @@
     "Low": 12749.45,
     "Last Traded Price": 12770.6,
     "Change": 50.65,
-    "%Change": 0.4,
-    "Traded Volume(lacs)": 1078.66,
-    "Traded Value(crs)": 5189.32
+    "%Change": 0.4
   },
   {
     "Symbol": "bpcl",
@@ -17,9 +15,7 @@
     "Low": 395.25,
     "Last Traded Price": 414.45,
     "Change": 20.45,
-    "%Change": 5.19,
-    "Traded Volume(lacs)": 84.06,
-    "Traded Value(crs)": 345.29
+    "%Change": 5.19
   },
   {
     "Symbol": "ioc",
@@ -28,9 +24,7 @@
     "Low": 84.9,
     "Last Traded Price": 87,
     "Change": 2.25,
-    "%Change": 2.65,
-    "Traded Volume(lacs)": 67.56,
-    "Traded Value(crs)": 58.33
+    "%Change": 2.65
   },
   {
     "Symbol": "tatamotors",
@@ -39,9 +33,7 @@
     "Low": 148,
     "Last Traded Price": 148.45,
     "Change": 2.1,
-    "%Change": 1.43,
-    "Traded Volume(lacs)": 117.49,
-    "Traded Value(crs)": 175.64
+    "%Change": 1.43
   },
   {
     "Symbol": "hdfclife",
@@ -50,9 +42,7 @@
     "Low": 633.7,
     "Last Traded Price": 635.55,
     "Change": 8.05,
-    "%Change": 1.28,
-    "Traded Volume(lacs)": 10.8,
-    "Traded Value(crs)": 68.72
+    "%Change": 1.28
   },
   {
     "Symbol": "sunpharma",
@@ -61,9 +51,7 @@
     "Low": 510.2,
     "Last Traded Price": 514,
     "Change": 5.55,
-    "%Change": 1.09,
-    "Traded Volume(lacs)": 17.66,
-    "Traded Value(crs)": 90.65
+    "%Change": 1.09
   },
   {
     "Symbol": "coalindia",
@@ -72,9 +60,7 @@
     "Low": 126.55,
     "Last Traded Price": 127.1,
     "Change": 1.2,
-    "%Change": 0.95,
-    "Traded Volume(lacs)": 33.08,
-    "Traded Value(crs)": 42.06
+    "%Change": 0.95
   },
   {
     "Symbol": "gail",
@@ -83,9 +69,7 @@
     "Low": 92.7,
     "Last Traded Price": 93.65,
     "Change": 0.85,
-    "%Change": 0.92,
-    "Traded Volume(lacs)": 21.29,
-    "Traded Value(crs)": 19.91
+    "%Change": 0.92
   },
   {
     "Symbol": "tatasteel",
@@ -94,9 +78,7 @@
     "Low": 487,
     "Last Traded Price": 490.95,
     "Change": 4.4,
-    "%Change": 0.9,
-    "Traded Volume(lacs)": 78.37,
-    "Traded Value(crs)": 387.28
+    "%Change": 0.9
   },
   {
     "Symbol": "hdfcbank",
@@ -105,9 +87,7 @@
     "Low": 1365.2,
     "Last Traded Price": 1371,
     "Change": 12.2,
-    "%Change": 0.9,
-    "Traded Volume(lacs)": 9.18,
-    "Traded Value(crs)": 125.75
+    "%Change": 0.9
   },
   {
     "Symbol": "infy",
@@ -116,9 +96,7 @@
     "Low": 1131.1,
     "Last Traded Price": 1134,
     "Change": 9.8,
-    "%Change": 0.87,
-    "Traded Volume(lacs)": 11.36,
-    "Traded Value(crs)": 128.86
+    "%Change": 0.87
   },
   {
     "Symbol": "bhartiartl",
@@ -127,9 +105,7 @@
     "Low": 479,
     "Last Traded Price": 479.9,
     "Change": 4.15,
-    "%Change": 0.87,
-    "Traded Volume(lacs)": 39.41,
-    "Traded Value(crs)": 190.17
+    "%Change": 0.87
   },
   {
     "Symbol": "upl",
@@ -138,9 +114,7 @@
     "Low": 428,
     "Last Traded Price": 429,
     "Change": 3.65,
-    "%Change": 0.86,
-    "Traded Volume(lacs)": 6.44,
-    "Traded Value(crs)": 27.64
+    "%Change": 0.86
   },
   {
     "Symbol": "sbilife",
@@ -149,9 +123,7 @@
     "Low": 836.15,
     "Last Traded Price": 839,
     "Change": 7.15,
-    "%Change": 0.86,
-    "Traded Volume(lacs)": 1.88,
-    "Traded Value(crs)": 15.78
+    "%Change": 0.86
   },
   {
     "Symbol": "lt",
@@ -160,9 +132,7 @@
     "Low": 1054,
     "Last Traded Price": 1058.85,
     "Change": 7.35,
-    "%Change": 0.7,
-    "Traded Volume(lacs)": 9.12,
-    "Traded Value(crs)": 96.8
+    "%Change": 0.7
   },
   {
     "Symbol": "maruti",
@@ -171,9 +141,7 @@
     "Low": 6835,
     "Last Traded Price": 6852,
     "Change": 42.75,
-    "%Change": 0.63,
-    "Traded Volume(lacs)": 1.28,
-    "Traded Value(crs)": 87.83
+    "%Change": 0.63
   },
   {
     "Symbol": "tcs",
@@ -182,9 +150,7 @@
     "Low": 2660.05,
     "Last Traded Price": 2673.25,
     "Change": 16.4,
-    "%Change": 0.62,
-    "Traded Volume(lacs)": 2.99,
-    "Traded Value(crs)": 79.77
+    "%Change": 0.62
   },
   {
     "Symbol": "ongc",
@@ -193,9 +159,7 @@
     "Low": 72.5,
     "Last Traded Price": 72.6,
     "Change": 0.45,
-    "%Change": 0.62,
-    "Traded Volume(lacs)": 53.88,
-    "Traded Value(crs)": 39.23
+    "%Change": 0.62
   },
   {
     "Symbol": "itc",
@@ -204,9 +168,7 @@
     "Low": 188.05,
     "Last Traded Price": 188.2,
     "Change": 1.1,
-    "%Change": 0.59,
-    "Traded Volume(lacs)": 77.67,
-    "Traded Value(crs)": 146.77
+    "%Change": 0.59
   },
   {
     "Symbol": "wipro",
@@ -215,9 +177,7 @@
     "Low": 343.1,
     "Last Traded Price": 345.9,
     "Change": 1.75,
-    "%Change": 0.51,
-    "Traded Volume(lacs)": 7.49,
-    "Traded Value(crs)": 25.91
+    "%Change": 0.51
   },
   {
     "Symbol": "ntpc",
@@ -226,9 +186,7 @@
     "Low": 90.3,
     "Last Traded Price": 91.9,
     "Change": 0.45,
-    "%Change": 0.49,
-    "Traded Volume(lacs)": 125.22,
-    "Traded Value(crs)": 113.86
+    "%Change": 0.49
   },
   {
     "Symbol": "kotakbank",
@@ -237,9 +195,7 @@
     "Low": 1764.9,
     "Last Traded Price": 1770.9,
     "Change": 7.6,
-    "%Change": 0.43,
-    "Traded Volume(lacs)": 3.11,
-    "Traded Value(crs)": 55.07
+    "%Change": 0.43
   },
   {
     "Symbol": "asianpaint",
@@ -248,9 +204,7 @@
     "Low": 2180.35,
     "Last Traded Price": 2189,
     "Change": 9.05,
-    "%Change": 0.42,
-    "Traded Volume(lacs)": 1.47,
-    "Traded Value(crs)": 32.14
+    "%Change": 0.42
   },
   {
     "Symbol": "drreddy",
@@ -259,9 +213,7 @@
     "Low": 4830,
     "Last Traded Price": 4875.6,
     "Change": 18.7,
-    "%Change": 0.39,
-    "Traded Volume(lacs)": 1.35,
-    "Traded Value(crs)": 65.85
+    "%Change": 0.39
   },
   {
     "Symbol": "britannia",
@@ -270,9 +222,7 @@
     "Low": 3515,
     "Last Traded Price": 3527,
     "Change": 12.55,
-    "%Change": 0.36,
-    "Traded Volume(lacs)": 0.56,
-    "Traded Value(crs)": 19.93
+    "%Change": 0.36
   },
   {
     "Symbol": "divislab",
@@ -281,9 +231,7 @@
     "Low": 3438.75,
     "Last Traded Price": 3444,
     "Change": 11.05,
-    "%Change": 0.32,
-    "Traded Volume(lacs)": 1.25,
-    "Traded Value(crs)": 42.94
+    "%Change": 0.32
   },
   {
     "Symbol": "techm",
@@ -292,9 +240,7 @@
     "Low": 837.95,
     "Last Traded Price": 841.4,
     "Change": 2.55,
-    "%Change": 0.3,
-    "Traded Volume(lacs)": 2.14,
-    "Traded Value(crs)": 18.03
+    "%Change": 0.3
   },
   {
     "Symbol": "bajajfinsv",
@@ -303,9 +249,7 @@
     "Low": 7250,
     "Last Traded Price": 7282,
     "Change": 20.9,
-    "%Change": 0.29,
-    "Traded Volume(lacs)": 3.16,
-    "Traded Value(crs)": 233.15
+    "%Change": 0.29
   },
   {
     "Symbol": "hcltech",
@@ -314,9 +258,7 @@
     "Low": 829,
     "Last Traded Price": 830.5,
     "Change": 2.4,
-    "%Change": 0.29,
-    "Traded Volume(lacs)": 4.75,
-    "Traded Value(crs)": 39.51
+    "%Change": 0.29
   },
   {
     "Symbol": "m&m",
@@ -325,9 +267,7 @@
     "Low": 629.85,
     "Last Traded Price": 631.6,
     "Change": 1.75,
-    "%Change": 0.28,
-    "Traded Volume(lacs)": 2.96,
-    "Traded Value(crs)": 18.69
+    "%Change": 0.28
   },
   {
     "Symbol": "reliance",
@@ -336,9 +276,7 @@
     "Low": 1995.35,
     "Last Traded Price": 2001.55,
     "Change": 5.15,
-    "%Change": 0.26,
-    "Traded Volume(lacs)": 24.12,
-    "Traded Value(crs)": 483.82
+    "%Change": 0.26
   },
   {
     "Symbol": "hdfc",
@@ -347,9 +285,7 @@
     "Low": 2304,
     "Last Traded Price": 2312.6,
     "Change": 5.85,
-    "%Change": 0.25,
-    "Traded Volume(lacs)": 3.74,
-    "Traded Value(crs)": 86.63
+    "%Change": 0.25
   },
   {
     "Symbol": "cipla",
@@ -358,9 +294,7 @@
     "Low": 744,
     "Last Traded Price": 745.8,
     "Change": 1.15,
-    "%Change": 0.15,
-    "Traded Volume(lacs)": 6.32,
-    "Traded Value(crs)": 47.2
+    "%Change": 0.15
   },
   {
     "Symbol": "hindunilvr",
@@ -369,9 +303,7 @@
     "Low": 2182,
     "Last Traded Price": 2188,
     "Change": 2.65,
-    "%Change": 0.12,
-    "Traded Volume(lacs)": 2.58,
-    "Traded Value(crs)": 56.56
+    "%Change": 0.12
   },
   {
     "Symbol": "nestleind",
@@ -380,9 +312,7 @@
     "Low": 16751,
     "Last Traded Price": 16835,
     "Change": 9.35,
-    "%Change": 0.06,
-    "Traded Volume(lacs)": 0.1,
-    "Traded Value(crs)": 17.59
+    "%Change": 0.06
   },
   {
     "Symbol": "icicibank",
@@ -391,9 +321,7 @@
     "Low": 484.65,
     "Last Traded Price": 485.65,
     "Change": 0.1,
-    "%Change": 0.02,
-    "Traded Volume(lacs)": 36.36,
-    "Traded Value(crs)": 177.38
+    "%Change": 0.02
   },
   {
     "Symbol": "grasim",
@@ -402,9 +330,7 @@
     "Low": 835.1,
     "Last Traded Price": 841,
     "Change": -0.35,
-    "%Change": -0.04,
-    "Traded Volume(lacs)": 3.25,
-    "Traded Value(crs)": 27.28
+    "%Change": -0.04
   },
   {
     "Symbol": "eichermot",
@@ -413,9 +339,7 @@
     "Low": 2502.75,
     "Last Traded Price": 2513.65,
     "Change": -0.95,
-    "%Change": -0.04,
-    "Traded Volume(lacs)": 10.43,
-    "Traded Value(crs)": 266.46
+    "%Change": -0.04
   },
   {
     "Symbol": "ultracemco",
@@ -424,9 +348,7 @@
     "Low": 4883,
     "Last Traded Price": 4890.25,
     "Change": -9.5,
-    "%Change": -0.19,
-    "Traded Volume(lacs)": 0.47,
-    "Traded Value(crs)": 23.26
+    "%Change": -0.19
   },
   {
     "Symbol": "bajaj-auto",
@@ -435,9 +357,7 @@
     "Low": 3030,
     "Last Traded Price": 3032.8,
     "Change": -7.95,
-    "%Change": -0.26,
-    "Traded Volume(lacs)": 0.6,
-    "Traded Value(crs)": 18.2
+    "%Change": -0.26
   },
   {
     "Symbol": "adaniports",
@@ -446,9 +366,7 @@
     "Low": 363,
     "Last Traded Price": 364.5,
     "Change": -1,
-    "%Change": -0.27,
-    "Traded Volume(lacs)": 4.45,
-    "Traded Value(crs)": 16.32
+    "%Change": -0.27
   },
   {
     "Symbol": "indusindbk",
@@ -457,9 +375,7 @@
     "Low": 757.45,
     "Last Traded Price": 766.05,
     "Change": -2.5,
-    "%Change": -0.33,
-    "Traded Volume(lacs)": 32.54,
-    "Traded Value(crs)": 252.47
+    "%Change": -0.33
   },
   {
     "Symbol": "powergrid",
@@ -468,9 +384,7 @@
     "Low": 187,
     "Last Traded Price": 188.15,
     "Change": -0.7,
-    "%Change": -0.37,
-    "Traded Volume(lacs)": 6.54,
-    "Traded Value(crs)": 12.31
+    "%Change": -0.37
   },
   {
     "Symbol": "axisbank",
@@ -479,9 +393,7 @@
     "Low": 605.55,
     "Last Traded Price": 607.9,
     "Change": -2.45,
-    "%Change": -0.4,
-    "Traded Volume(lacs)": 32.11,
-    "Traded Value(crs)": 197.52
+    "%Change": -0.4
   },
   {
     "Symbol": "titan",
@@ -490,9 +402,7 @@
     "Low": 1279.1,
     "Last Traded Price": 1282.55,
     "Change": -5.9,
-    "%Change": -0.46,
-    "Traded Volume(lacs)": 2.88,
-    "Traded Value(crs)": 37.15
+    "%Change": -0.46
   },
   {
     "Symbol": "shreecem",
@@ -501,9 +411,7 @@
     "Low": 23280.45,
     "Last Traded Price": 23303.7,
     "Change": -131.8,
-    "%Change": -0.56,
-    "Traded Volume(lacs)": 0.08,
-    "Traded Value(crs)": 17.85
+    "%Change": -0.56
   },
   {
     "Symbol": "bajfinance",
@@ -512,9 +420,7 @@
     "Low": 4340,
     "Last Traded Price": 4351,
     "Change": -25.05,
-    "%Change": -0.57,
-    "Traded Volume(lacs)": 7.89,
-    "Traded Value(crs)": 347.2
+    "%Change": -0.57
   },
   {
     "Symbol": "sbin",
@@ -523,9 +429,7 @@
     "Low": 227.75,
     "Last Traded Price": 228.05,
     "Change": -1.4,
-    "%Change": -0.61,
-    "Traded Volume(lacs)": 77.53,
-    "Traded Value(crs)": 179.08
+    "%Change": -0.61
   },
   {
     "Symbol": "jswsteel",
@@ -534,9 +438,7 @@
     "Low": 340.1,
     "Last Traded Price": 341,
     "Change": -2.2,
-    "%Change": -0.64,
-    "Traded Volume(lacs)": 9.75,
-    "Traded Value(crs)": 33.42
+    "%Change": -0.64
   },
   {
     "Symbol": "heromotoco",
@@ -545,9 +447,7 @@
     "Low": 3098,
     "Last Traded Price": 3105,
     "Change": -23.9,
-    "%Change": -0.76,
-    "Traded Volume(lacs)": 1.99,
-    "Traded Value(crs)": 62.3
+    "%Change": -0.76
   },
   {
     "Symbol": "hindalco",
@@ -556,8 +456,6 @@
     "Low": 207.05,
     "Last Traded Price": 208,
     "Change": -2.55,
-    "%Change": -1.21,
-    "Traded Volume(lacs)": 17.95,
-    "Traded Value(crs)": 37.76
+    "%Change": -1.21
   }
 ]
